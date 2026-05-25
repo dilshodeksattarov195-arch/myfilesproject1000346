@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdpdate",
+        "uuid": 2370100,
+        "checksum": "lnkxtl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
